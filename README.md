@@ -2,6 +2,9 @@
 
 A modern, elegant restaurant reservation system built with Next.js and TypeScript. This web application allows customers to browse restaurant information and make table reservations seamlessly.
 
+🌐 [Visit Website](https://restaurantreservation03.netlify.app/)
+📝 [View Demo](https://restaurantreservation03.netlify.app/reservation)
+
 ![Restaurant Homepage](public/interior.jpeg)
 
 ## Features
@@ -13,6 +16,11 @@ A modern, elegant restaurant reservation system built with Next.js and TypeScrip
 - ✨ Animated components and transitions
 - 📱 Mobile-friendly interface
 
+## Live Deployment
+
+- Production: [https://fine-dining-reservation.netlify.app](https://fine-dining-reservation.netlify.app)
+- Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/fine-dining-reservation/deploys)
+
 ## Tech Stack
 
 - Next.js 13 (App Router)
@@ -20,6 +28,7 @@ A modern, elegant restaurant reservation system built with Next.js and TypeScrip
 - Tailwind CSS
 - React Hooks
 - Node.js
+- Netlify (Deployment)
 
 ## Getting Started
 
@@ -96,3 +105,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Images sourced from [Unsplash](https://unsplash.com)
 - Icons from [Heroicons](https://heroicons.com)
+
+## Deployment
+
+This project is deployed on Netlify. To deploy your own instance:
+
+1. Fork this repository
+2. Create a Netlify account at [netlify.com](https://netlify.com)
+3. Connect your GitHub repository
+4. Configure build settings:
+   - Build command: `npm run build`
+   - Publish directory: `.next`
+5. Deploy!
+
+## Live Demo
+
+Experience the features live:
+- [Make a Reservation](https://fine-dining-reservation.netlify.app/reservation)
+- [View Menu](https://fine-dining-reservation.netlify.app/menu)
+- [Special Events](https://fine-dining-reservation.netlify.app/events)
