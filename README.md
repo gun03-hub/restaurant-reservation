@@ -18,8 +18,7 @@ A modern, elegant restaurant reservation system built with Next.js and TypeScrip
 
 ## Live Deployment
 
-- Production: [https://fine-dining-reservation.netlify.app](https://fine-dining-reservation.netlify.app)
-- Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/fine-dining-reservation/deploys)
+- Production: [https://fine-dining-reservation.netlify.app]([https://restaurantreservation03.netlify.app/])
 
 ## Tech Stack
 
