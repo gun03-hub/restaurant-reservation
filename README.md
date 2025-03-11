@@ -33,7 +33,7 @@ A modern, elegant restaurant reservation system built with Next.js and TypeScrip
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/restaurant-reservation.git
+git clone https://github.com/gun03-hub/restaurant-reservation.git
 ```
 
 2. Install dependencies:
