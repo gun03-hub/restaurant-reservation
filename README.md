@@ -120,6 +120,4 @@ This project is deployed on Netlify. To deploy your own instance:
 ## Live Demo
 
 Experience the features live:
-- [Make a Reservation](https://fine-dining-reservation.netlify.app/reservation)
-- [View Menu](https://fine-dining-reservation.netlify.app/menu)
-- [Special Events](https://fine-dining-reservation.netlify.app/events)
+- [Make a Reservation](https://restaurantreservation03.netlify.app/reservation)
